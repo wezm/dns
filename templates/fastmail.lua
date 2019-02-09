@@ -30,19 +30,19 @@ function fastmail(domain)
 
   -- SRV: Allows email clients to automatically find the correct settings for
   -- your account.
-  srv(concat("_submission._tcp", domain), "smtp.fastmail.com", 587, 1, 0)
+  srv(concat("_submission._tcp", domain), "smtp.fastmail.com", 587, 0, 1)
   srv(concat("_imap._tcp", domain), ".", 0, 0, 0)
-  srv(concat("_imaps._tcp", domain), "imap.fastmail.com", 993, 1, 0)
+  srv(concat("_imaps._tcp", domain), "imap.fastmail.com", 993, 0, 1)
   srv(concat("_pop3._tcp", domain), ".", 0, 0, 0)
-  srv(concat("_pop3s._tcp", domain), "pop.fastmail.com", 995, 1, 0)
+  srv(concat("_pop3s._tcp", domain), "pop.fastmail.com", 995, 0, 1)
 
   -- SRV: Allows CardDAV clients to automatically find the correct settings for
   -- your account.
   srv(concat("_carddav._tcp", domain), ".", 0, 0, 0)
-  srv(concat("_carddavs._tcp", domain), "carddav.fastmail.com", 443, 1, 0)
+  srv(concat("_carddavs._tcp", domain), "carddav.fastmail.com", 443, 0, 1)
 
   -- SRV: Allows CalDAV clients to automatically find the correct settings for
   -- your account.
   srv(concat("_caldav._tcp", domain), ".", 0, 0, 0)
-  srv(concat("_caldavs._tcp", domain), "caldav.fastmail.com", 443, 1, 0)
+  srv(concat("_caldavs._tcp", domain), "caldav.fastmail.com", 443, 0, 1)
 end
