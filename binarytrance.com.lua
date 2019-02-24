@@ -8,7 +8,7 @@ a(_a, "45.55.46.163")
 a("eforce.binarytrance.com", "45.55.46.163")
 a("ferry.binarytrance.com", "199.180.255.220")
 a("gareth.binarytrance.com", "174.138.53.121")
-a("hardforze.binarytrance.com", "149.28.178.210")
+a("hardforze.binarytrance.com", "45.76.112.252")
 
 -- CNAME records
 cname("www", _a)
