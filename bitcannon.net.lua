@@ -4,7 +4,7 @@
 -- _a = "bitcannon.net"
 
 -- A records
-a(_a, "45.55.46.163")
+a(_a, "45.76.112.252")
 
 -- CNAME records
 cname("www", _a)
