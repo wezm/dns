@@ -4,7 +4,7 @@
 -- _a = "binarytrance.com"
 
 -- A records
-a(_a, "45.55.46.163")
+a(_a, "45.76.112.252")
 a("eforce.binarytrance.com", "45.55.46.163")
 a("ferry.binarytrance.com", "199.180.255.220")
 a("gareth.binarytrance.com", "174.138.53.121")
