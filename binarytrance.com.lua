@@ -19,7 +19,7 @@ cname("3087948cc85d5610e4a80cbc084eac43", "verify.bing.com")
 txt(_a, "google-site-verification=ayfIGKxUXBaLAnrW1UAAhEwnnPzphCx9DrpmAreGR_A")
 
 -- CAA records
--- caa("", "letsencrypt.org", "issue")
+caa(_a, "letsencrypt.org", "issue")
 -- caa("", "mailto:joe@bitcannon.net", "iodef")
 
 -- Templates (see templates/*)

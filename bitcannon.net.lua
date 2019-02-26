@@ -13,7 +13,7 @@ cname("www", _a)
 txt(_a, "google-site-verification=GQixNkjawUBZMHnviTCL2IsJXrtOQYcMbAHj6FD55_Q")
 
 -- CAA records
--- caa("", "letsencrypt.org", "issue")
+caa(_a, "letsencrypt.org", "issue")
 -- caa("", "mailto:joe@bitcannon.net", "iodef")
 
 -- Templates (see templates/*)
