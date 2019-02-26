@@ -13,8 +13,8 @@ cname("www", _a)
 txt(_a, "google-site-verification=3HHylLz5MsixZgJZsf5NTHVXg93FHs1XQ2ElbcropQY")
 
 -- CAA records
-caa(_a, "letsencrypt.org", "issue")
--- caa("", "mailto:joe@linkedlist.org", "iodef")
+caa("", "letsencrypt.org", "issue")
+caa("", "mailto:wes@binarytrance.com", "iodef")
 
 -- Templates (see templates/*)
 -- fastmail(_a)

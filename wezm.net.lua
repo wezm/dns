@@ -25,8 +25,8 @@ cname("www", "hardforze.binarytrance.com")
 txt(_a, "google-site-verification:t1zIVbO1K7Xuo734w0tEdq6JCjvjMjrXq2FG3L2lkdg")
 
 -- CAA records
-caa(_a, "letsencrypt.org", "issue")
--- caa("", "mailto:joe@bitcannon.net", "iodef")
+caa("", "letsencrypt.org", "issue")
+caa("", "mailto:wes@binarytrance.com", "iodef")
 
 -- Templates (see templates/*)
 fastmail(_a)
