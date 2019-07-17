@@ -28,6 +28,7 @@ txt(_a, "google-site-verification:t1zIVbO1K7Xuo734w0tEdq6JCjvjMjrXq2FG3L2lkdg")
 -- CAA records
 caa("", "letsencrypt.org", "issue")
 caa("", "mailto:wes@binarytrance.com", "iodef")
+caa("", "amazonaws.com", "issue")
 
 -- Templates (see templates/*)
 fastmail(_a)
