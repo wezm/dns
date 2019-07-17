@@ -18,7 +18,7 @@ cname("mattermost", "hardforze.binarytrance.com")
 cname("menus", "hardforze.binarytrance.com")
 cname("node-genx", "hardforze.binarytrance.com")
 cname("pkg", "web.messagingengine.com")
-cname("releases", "web.messagingengine.com")
+cname("releases", "d2tgsoo1t1w5cg.cloudfront.net")
 cname("www", "hardforze.binarytrance.com")
 cname("_e73357c064e6121d061e5f0591f0d887.releases", "_121ff6a133d69457cc4acba8e628b9d6.duyqrilejt.acm-validations.aws")
 
