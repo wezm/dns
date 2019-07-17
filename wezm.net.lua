@@ -20,7 +20,7 @@ cname("node-genx", "hardforze.binarytrance.com")
 cname("pkg", "web.messagingengine.com")
 cname("releases", "web.messagingengine.com")
 cname("www", "hardforze.binarytrance.com")
-cname("_e73357c064e6121d061e5f0591f0d887.releases", "_121ff6a133d69457cc4acba8e628b9d6.duyqrilejt.acm-validations.aws.")
+cname("_e73357c064e6121d061e5f0591f0d887.releases", "_121ff6a133d69457cc4acba8e628b9d6.duyqrilejt.acm-validations.aws")
 
 -- TXT
 txt(_a, "google-site-verification:t1zIVbO1K7Xuo734w0tEdq6JCjvjMjrXq2FG3L2lkdg")
