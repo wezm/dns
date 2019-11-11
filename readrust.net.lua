@@ -4,7 +4,7 @@
 -- _a = "readrust.net"
 
 -- ALIAS records
-alias(_a, "d3e22v80d5378h.cloudfront.net")
+alias(_a, "d3e22v80d5378h.cloudfront.net", 60)
 
 -- A records
 -- a(_a, "45.76.112.252")
