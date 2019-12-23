@@ -22,4 +22,4 @@ caa("", "letsencrypt.org", "issue")
 caa("", "mailto:wes@binarytrance.com", "iodef")
 
 -- Templates (see templates/*)
--- fastmail(_a)
+fastmail(_a)
