@@ -12,6 +12,7 @@ a(_a, "45.76.112.252")
 -- CNAME records
 cname("www", _a)
 cname("beta", "hardforze.binarytrance.com")
+cname("leaf", "hardforze.binarytrance.com")
 
 -- TXT
 txt(_a, "google-site-verification=KtPfh3bg6Minpz2KT2cLKFOh1jzzoY1EjXVwPm2fy-A")
