@@ -1,18 +1,18 @@
 function fastmail(domain)
-  -- Allows you to receive email at standard addresses, e.g. user@bitcannon.net
+  -- Allows you to receive email at standard addresses, e.g. user@example.com
   mx(domain, "in1-smtp.messagingengine.com", 10)
   mx(domain, "in2-smtp.messagingengine.com", 20)
 
-  -- Allows you to receive email at subdomain addresses, e.g. foo@user.bitcannon.net
+  -- Allows you to receive email at subdomain addresses, e.g. foo@user.example.com
   mx(concat("*", domain), "in1-smtp.messagingengine.com", 10)
   mx(concat("*", domain), "in2-smtp.messagingengine.com", 20)
 
-  -- Allows you to log in to your account at http://mail.bitcannon.net.
+  -- Allows you to log in to your account at http://mail.example.com.
   a(concat("mail", domain), "66.111.4.147")
   a(concat("mail", domain), "66.111.4.148")
 
   -- An 'A' record hides the wildcard subdomain MX record. This overrides that
-  -- to allow receiving email addressed to foo@mail.bitcannon.net
+  -- to allow receiving email addressed to foo@mail.example.com
   mx(concat("mail", domain), "in1-smtp.messagingengine.com", 10)
   mx(concat("mail", domain), "in2-smtp.messagingengine.com", 20)
 

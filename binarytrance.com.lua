@@ -1,4 +1,4 @@
--- Zone: bitcannon.net
+-- Zone: binarytrance.com
 -- SOA record is automatically generated
 -- Variable _a is replaced with zone name
 -- _a = "binarytrance.com"

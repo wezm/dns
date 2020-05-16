@@ -1,7 +1,7 @@
--- Zone: bitcannon.net
+-- Zone: rust.melbourne
 -- SOA record is automatically generated
 -- Variable _a is replaced with zone name
--- _a = "bitcannon.net"
+-- _a = "rust.melbourne"
 
 -- A records
 a(_a, "45.76.112.252")

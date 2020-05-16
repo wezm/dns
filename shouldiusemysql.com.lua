@@ -1,7 +1,7 @@
--- Zone: bitcannon.net
+-- Zone: shouldiusemysql.com
 -- SOA record is automatically generated
 -- Variable _a is replaced with zone name
--- _a = "bitcannon.net"
+-- _a = "shouldiusemysql.com"
 
 -- A records
 a(_a, "45.76.112.252")
