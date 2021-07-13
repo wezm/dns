@@ -21,6 +21,7 @@ cname("pkg", "web.messagingengine.com")
 cname("releases", "d2tgsoo1t1w5cg.cloudfront.net")
 cname("uld", "hardforze.binarytrance.com")
 cname("www", "hardforze.binarytrance.com")
+cname("stream", "thawing-crayfish-cifvx8bsi6hse3howc8i6u4m.herokudns.com", 60)
 cname("_e73357c064e6121d061e5f0591f0d887.releases", "_121ff6a133d69457cc4acba8e628b9d6.duyqrilejt.acm-validations.aws")
 
 -- TXT
