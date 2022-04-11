@@ -9,6 +9,7 @@ a(_a, "45.76.112.252")
 -- CNAME records
 cname("www", _a)
 cname("dewpoint", _a)
+cname("wizards-bot", _a)
 
 -- TXT
 
