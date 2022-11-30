@@ -11,6 +11,9 @@ cname("www", _a)
 cname("dewpoint", _a)
 cname("wizards-bot", _a)
 
+-- Bing verification
+cname("cc236b500a70a9e603faafd0f253fc62", "verify.bing.com")
+
 -- TXT
 
 -- CAA records
