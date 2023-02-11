@@ -5,6 +5,8 @@
 
 -- A records
 a(_a, "45.76.112.252")
+a("tv", "34.120.54.55")
+aaaa("tv", "2600:1901:0:6d85::")
 
 -- CNAME records
 cname("bigd", "hardforze.binarytrance.com")
@@ -20,9 +22,10 @@ cname("node-genx", "hardforze.binarytrance.com")
 cname("pkg", "web.messagingengine.com")
 cname("releases", "d2tgsoo1t1w5cg.cloudfront.net")
 cname("rsspls", "hardforze.binarytrance.com")
+cname("stream", "thawing-crayfish-cifvx8bsi6hse3howc8i6u4m.herokudns.com", 60)
 cname("uld", "hardforze.binarytrance.com")
 cname("www", "hardforze.binarytrance.com")
-cname("stream", "thawing-crayfish-cifvx8bsi6hse3howc8i6u4m.herokudns.com", 60)
+cname("_acme-challenge.tv", "779ec6f06a46d54e6a22fdfc._acme.deno.dev.")
 cname("_e73357c064e6121d061e5f0591f0d887.releases", "_121ff6a133d69457cc4acba8e628b9d6.duyqrilejt.acm-validations.aws")
 
 -- TXT
