@@ -9,6 +9,7 @@ a(_a, "45.76.112.252")
 -- CNAME records
 cname("www", _a)
 cname("nitter", _a)
+cname("elk", _a)
 cname("mastodon", "vip.masto.host", 3600)
 
 -- TXT
