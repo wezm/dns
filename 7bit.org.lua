@@ -10,6 +10,7 @@ a(_a, "45.76.112.252")
 cname("www", _a)
 cname("dewpoint", _a)
 cname("fediurl", _a)
+cname("rsspls", _a)
 cname("wizards-bot", _a)
 
 -- Bing verification
