@@ -5,7 +5,7 @@
 
 -- A records
 a(_a, "45.76.112.252")
-a(concat("au.mirror", _a), "103.100.38.99")
+a(concat("au.mirror", _a), "103.100.39.59")
 
 -- CNAME records
 cname("www", _a)
