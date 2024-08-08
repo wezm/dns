@@ -5,12 +5,12 @@
 
 -- A records
 a(_a, "45.76.112.252")
+a(concat("au.mirror", _a), "103.100.38.99")
 
 -- CNAME records
 cname("www", _a)
 cname("dewpoint", _a)
 cname("fediurl", _a)
-cname("au.mirror", _a)
 cname("rsspls", _a)
 cname("wizards-bot", _a)
 
