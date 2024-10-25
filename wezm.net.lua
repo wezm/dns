@@ -33,6 +33,7 @@ cname("_e73357c064e6121d061e5f0591f0d887.releases", "_121ff6a133d69457cc4acba8e6
 
 -- TXT
 txt(_a, "google-site-verification:t1zIVbO1K7Xuo734w0tEdq6JCjvjMjrXq2FG3L2lkdg")
+txt("_atproto", "did=did:plc:yxxzvencal2cdlc63mre4fnz")
 
 -- CAA records
 caa("", "letsencrypt.org", "issue")
