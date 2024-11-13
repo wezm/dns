@@ -14,7 +14,7 @@ cname("www", _a)
 
 -- TXT
 txt(_a, "google-site-verification=3HHylLz5MsixZgJZsf5NTHVXg93FHs1XQ2ElbcropQY")
-txt("_atproto", "did:plc:clkmqjwupe5zxeppfpl2i2ci")
+txt("_atproto", "did=did:plc:clkmqjwupe5zxeppfpl2i2ci")
 
 -- CAA records
 caa("", "letsencrypt.org", "issue")
