@@ -18,6 +18,7 @@ cname("wizards-bot", _a)
 cname("cc236b500a70a9e603faafd0f253fc62", "verify.bing.com")
 
 -- TXT
+txt(_a, "google-site-verification=pej2DT7ouonYUUBzhqHw63NfAxbcnhEAePzaOJypuoU")
 
 -- CAA records
 caa("", "letsencrypt.org", "issue")
