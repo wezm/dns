@@ -44,3 +44,9 @@ caa("", "amazonaws.com", "issue")
 
 -- Templates (see templates/*)
 fastmail(_a)
+
+-- Buttondown
+txt("20250703112039pm._domainkey", "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDN8g4N4ALNA89jIbaLBL2D6Mlfl/zMy+KxGKRqqB3TYshe6hfQ0wIk7YvhytjMQVJRxd5N5+F21Rq5cjTAEdMQd/e3lOD7yKgAFFzNk/s8JwkYs/yrf+fEbQVh1Oo61McoPXuO+KDmwnaqnw4UgMuOmprljUyO8uet5SJJ6gRtfwIDAQAB")
+cname("pm-bounces", "pm.mtasv.net")
+txt("_dmarc", "v=DMARC1; p=quarantine; rua=mailto:940f0c149d7a65a4c6b0f32e5246f6fa@inbound.postmarkapp.com; aspf=r; pct=100")
+
