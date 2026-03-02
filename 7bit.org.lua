@@ -9,6 +9,7 @@ a(concat("au.mirror", _a), "103.100.39.59")
 
 -- CNAME records
 cname("www", _a)
+cname("cobblestone", _a)
 cname("dewpoint", _a)
 cname("fediurl", _a)
 cname("rsspls", _a)
