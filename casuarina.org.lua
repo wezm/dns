@@ -3,9 +3,11 @@
 -- Variable _a is replaced with zone name
 -- _a = "casuarina.org"
 
+alias(_a, "grebedoc.dev")
+
 -- A records
-a(_a, "185.187.152.7")
-aaaa(_a, "2a05:b0c4:1::3")
+-- a(_a, "185.187.152.7")
+-- aaaa(_a, "2a05:b0c4:1::3")
 
 -- CNAME records
 -- cname("www", _a)
