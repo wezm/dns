@@ -14,7 +14,7 @@ alias(_a, "grebedoc.dev")
 
 -- TXT
 -- txt(_a, "google-site-verification=3HHylLz5MsixZgJZsf5NTHVXg93FHs1XQ2ElbcropQY")
-txt("_git-pages-repository", "https://codeberg.org/casuarina/casuarina.org.git")
+txt("_git-pages-challenge", "d7f9c5b6ee5699f4bce4df0bdbe50ecbdf9d62f107b83b987ec1b98558933ce6")
 
 -- CAA records
 -- caa("", "letsencrypt.org", "issue")
