@@ -21,5 +21,5 @@ txt("_git-pages-challenge", "d7f9c5b6ee5699f4bce4df0bdbe50ecbdf9d62f107b83b987ec
 -- caa("", "mailto:wes@binarytrance.com", "iodef")
 
 -- Templates (see templates/*)
--- fastmail(_a)
+fastmail(_a)
 
