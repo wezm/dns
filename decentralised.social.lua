@@ -10,7 +10,7 @@ a(_a, "45.76.112.252")
 cname("www", _a)
 cname("elk", _a)
 cname("archive", _a)
-cname("mastodon", "vip.masto.host", 600)
+cname("mastodon", "hardforze.binarytrance.com" 600)
 
 -- TXT
 -- txt(_a, "google-site-verification=GQixNkjawUBZMHnviTCL2IsJXrtOQYcMbAHj6FD55_Q")
