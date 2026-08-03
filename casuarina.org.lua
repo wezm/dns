@@ -9,7 +9,9 @@ alias(_a, "grebedoc.dev")
 a(concat("repo", _a), "103.100.39.59")
 a(concat("build", _a), "103.100.39.59")
 a(concat("forum", _a), "103.100.39.59")
--- aaaa(_a, "2a05:b0c4:1::3")
+aaaa("repo", "2404:9400:163c:7200::1")
+aaaa("build", "2404:9400:163c:7200::1")
+aaaa("forum", "2404:9400:163c:7200::1")
 
 -- CNAME records
 -- cname("www", _a)
